@@ -33,3 +33,13 @@ Mi web es Youtube
 
 - [nodemon.io](https://nodemon.io/) -> para desarrollo
 - [pm2](https://pm2.keymetrics.io/) -> para producción
+
+## Cómo manejar la asincronía
+
+### Callbacks
+
+### Callback Hell: refactorizar o sufrir
+
+### Promesas
+
+### Async/await
