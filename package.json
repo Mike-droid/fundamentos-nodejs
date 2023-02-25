@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos_nodejs",
+  "version": "1.0.0",
+  "description": "## Conocer los conceptos básicos de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "is-odd": "^3.0.1"
+  }
+}

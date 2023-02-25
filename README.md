@@ -63,3 +63,21 @@ Mi web es Youtube
 ### OS
 
 ### Process
+
+## Utilizar los módulos y paquetes externos
+
+### Gestión de paquetes: NPM y package.json
+
+### Construyendo módulos: Require e Import
+
+### Módulos útiles
+
+### Datos almacenados vs en memoria
+
+### Buffers
+
+Buffers son datos en binario que van de un lado a otro.
+
+### Streams
+
+Proceso de ir consumiendo datos al tiempo en que se reciben.
