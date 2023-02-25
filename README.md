@@ -81,3 +81,13 @@ Buffers son datos en binario que van de un lado a otro.
 ### Streams
 
 Proceso de ir consumiendo datos al tiempo en que se reciben.
+
+## Conocer trucos que no quieren que sepas
+
+### Benchmarking (console time y timeEnd)
+
+### Debugger
+
+Podemos usar en la terminal `node --flag` para empezar a hacer debugging y luego entrar a 'chrome:inspect' en el navegador para continuar.
+
+### Error First Callbacks
