@@ -43,3 +43,23 @@ Mi web es Youtube
 ### Promesas
 
 ### Async/await
+
+## Entender los módulos del core
+
+### Globals
+
+### File system
+
+### Console
+
+### Errores (try/catch)
+
+### Procesos hijo
+
+### Módulos nativos en C++
+
+### HTTP
+
+### OS
+
+### Process
