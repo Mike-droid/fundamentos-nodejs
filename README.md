@@ -91,3 +91,11 @@ Proceso de ir consumiendo datos al tiempo en que se reciben.
 Podemos usar en la terminal `node --flag` para empezar a hacer debugging y luego entrar a 'chrome:inspect' en el navegador para continuar.
 
 ### Error First Callbacks
+
+## Manejar herramientas con Node
+
+### Scrapping
+
+### Automatización de procesos
+
+### Aplicaciones de escritorio
